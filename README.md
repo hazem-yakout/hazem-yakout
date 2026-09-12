@@ -82,6 +82,10 @@ Automation
 ## 🤝 Let's Connect
 
 <p align="left">
+  <a href="https://myportfolio-ebon-tau-75.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/hazem-yakout-690621281/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
